@@ -1,0 +1,9 @@
+server:
+    port: 10000
+    
+spring:
+  datasource:
+    username: hr
+    password: hr
+    url: jdbc:oracle:thin:@//localhost:1521/xe
+    
